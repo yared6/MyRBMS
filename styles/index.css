@@ -1,0 +1,116 @@
+body{
+	
+	font-size:100%;
+	background: url(../image/oldpaperscrolls5_BackgroundFairyclear.jpg) no-repeat;
+	background-size: 100% 100%;   
+}
+
+#login{
+    border-radius:30px;
+	background-color:white;
+	width:350px;
+	height:55%;
+	margin:0 auto;
+	margin-top:10%;
+    font-family: sans-serif;
+}
+
+#reset_container{
+	border-radius:30px;
+	background-color:white;
+	width:450px;
+	height:70%;
+	margin:auto;
+    margin-top: 10%;
+    font-family: sans-serif;
+    border-style: none;
+}
+
+#reset{
+    margin-top: 12%;
+    margin-left: 15%;
+    padding: 1%;
+    
+}
+
+#user_name{
+    margin-left: 9%;
+}
+
+#e_mail{
+    margin-left: 17.3%;
+}
+
+#new_password{
+    margin-left: 2%;
+}
+
+#for_reset{
+    cursor: pointer;
+    background-color:#0271BC;
+    color: white;
+    border-style: none;
+    font-size: 15px;
+    margin-left: 49.7%;
+    margin-top: 2%;
+    width: 120px;
+}
+
+form{
+	width:400px;
+	margin:0 auto;
+}
+input{
+    font-weight: 200;
+    font-size:16px;
+    height:35px;
+    width:200px;
+}
+#login a{
+    font-size:12px;
+	width:right;
+	display:inline-block;
+	float:right;
+	margin-right:120px;
+	cursor:pointer;
+	
+}
+
+#login a:hover{
+    color:dimgrey;
+    text-decoration: none;
+}
+li{
+	list-style-type:none;
+    
+}
+#sub{
+    margin-top:20px;
+    height: 25px;
+    width:60px;
+	margin-left:220px;
+}
+#sub:hover{
+    background-color: cornflowerblue;
+}
+input{
+	border-radius:4px;
+}
+
+body{
+	font-family:"Times new roman" ;
+}
+
+#red{
+    color: red;
+    font-size: 13px;
+    margin-top: -40px;
+    margin-left: -160px;
+}
+
+#tryagain{
+    color: red;
+    font-size: 13px;
+    margin-top: -40px;
+    margin-left: -190px;
+}

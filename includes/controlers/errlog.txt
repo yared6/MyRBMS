@@ -1,0 +1,5 @@
+0onfileC:\wamp\www\MyRbms\Entities and utilities\sendreport_controler.php
+onfileSendReportHandler::createELog0onfileC:\wamp\www\MyRbms\Entities and utilities\sendreport_controler.php
+onfileSendReportHandler::createELog0onfileC:\wamp\www\MyRbms\Entities and utilities\sendupdate_controler.php
+onfileSendUpdateHandler::createELog0onfileC:\wamp\www\MyRbms\Entities and utilities\sendupdate_controler.php
+onfileSendUpdateHandler::createELog

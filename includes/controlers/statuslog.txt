@@ -1,0 +1,3 @@
+record inserted to db
+0onfileC:\wamp\www\MyRbms\Entities and utilities\sendreport_controler.php
+onfileSendReportHandler::createSLog0

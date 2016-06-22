@@ -1,0 +1,96 @@
+#container{
+    background-size: 100% 100%;
+    height: 640px;
+   
+}
+
+#firstSection{
+    height: 20%;
+    background-color: grey;
+    background-image: url(image/header.jpg);
+}
+
+#middleSection{
+    height: 70%;
+    background-color: dodgerblue;
+}
+
+#lastSection{
+    height: 10%;
+    background-color: aquamarine;
+    font-family: sans-serif;
+    font-size: 12px;
+    
+}
+
+#lastSection ul a{
+    text-decoration: none;
+    padding-top: 2%;
+    float: left;
+}
+
+#lastSection p{
+    text-align: right;
+}
+
+#lastSection ul li{
+    text-align: left;
+    list-style-type: none;
+    display: inline;
+}
+
+#logOut{
+    background: #1E90FF;
+    color: white;
+    font-family:sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    height: 27px;
+    width: 75px;
+    border-radius: 3px;
+    border-style: none;
+    position: absolute;
+    margin-left: 85%;
+    margin-top: 4%;
+    cursor: pointer;
+}
+
+#logOut:hover{
+    background-color: #28AAE1; 
+}
+
+#menuLists{
+    position:absolute;
+    margin-top: 10%;
+}
+
+#menuLists li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.menuLists{
+    font-family: sans-serif;
+    background: #68217A;
+    color: white;
+    height: 25px;
+    text-align: justify;
+    border-style: none;
+    cursor: pointer;
+}
+
+.menuLists:hover{
+    background-color: #AA00FF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
